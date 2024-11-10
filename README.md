@@ -6,5 +6,5 @@ I'm **MSheekh6**!
 - 🌱 I’m currently learning full-stack development
 - 📫 How to reach me: 
     - 📧 Email: [sheekhaminmohammed@gmail.com](mailto:sheekhaminmohammed@gmail.com)
-    - 💼 LinkedIn: [Sheekha Mohammed](www.linkedin.com/in/mohammed-sheekh-amin)
+    - 💼 LinkedIn: [Mohammed Sheekh-Amin](https://www.linkedin.com/in/mohammed-sheekh-amin)
     - 🌐 GitHub: [MSheekh6](https://github.com/MSheekh6)
